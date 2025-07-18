@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="401.03" height="401.03"><svg id="SvgjsSvg1007" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 401.03 401.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #007fff;
+      }
+
+      .cls-2 {
+        fill: #f76b00;
+      }
+
+      .cls-3 {
+        fill: url(#New_Gradient_Swatch_1);
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: url(#linear-gradient);
+        stroke-miterlimit: 10;
+        stroke-width: 50px;
+      }
+    </style>
+    <linearGradient id="SvgjsLinearGradient1006" data-name="New Gradient Swatch 1" x1="165.31" y1="185.49" x2="254.62" y2="274.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f76b00"></stop>
+      <stop offset=".5" stop-color="#963ae0"></stop>
+      <stop offset="1" stop-color="#007fff"></stop>
+    </linearGradient>
+    <linearGradient id="SvgjsLinearGradient1005" x1="58.73" y1="58.73" x2="342.3" y2="342.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f76b00"></stop>
+      <stop offset=".09" stop-color="#f46905"></stop>
+      <stop offset=".19" stop-color="#ee6613"></stop>
+      <stop offset=".31" stop-color="#e3612c"></stop>
+      <stop offset=".43" stop-color="#d5594d"></stop>
+      <stop offset=".55" stop-color="#c25079"></stop>
+      <stop offset=".68" stop-color="#ab44ae"></stop>
+      <stop offset=".79" stop-color="#963ae0"></stop>
+      <stop offset="1" stop-color="#007fff"></stop>
+    </linearGradient>
+  </defs>
+  <g id="SvgjsG1004" data-name="Layer 2">
+    <g>
+      <path class="cls-3" d="M128.74,303.1h47.57V123.96h-47.57v179.14ZM185.08,123.96h-8.77v146.13h8.77V123.96ZM271.35,213.53h-86.27v56.56h86.27v-56.56ZM215.45,213.53h55.9v-66.72c0-12.62-10.23-22.85-22.85-22.85h-33.05v89.57h0ZM215.45,123.96h-30.37v58.1h30.37v-58.1Z"></path>
+      <circle class="cls-4" cx="200.51" cy="200.51" r="175.51"></circle>
+      <rect class="cls-2" x="98.08" y="99.46" width="24.5" height="24.5"></rect>
+      <rect class="cls-1" x="279.65" y="278.6" width="24.5" height="24.5"></rect>
+    </g>
+  </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
