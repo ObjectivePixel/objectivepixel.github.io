@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-T14J9RKWXY
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "http://www.objectivepixel.com"
 
 # ------------ The following options are not recommended to be modified ------------------
 
