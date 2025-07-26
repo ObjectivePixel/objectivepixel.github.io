@@ -4,8 +4,6 @@ date: 2025-07-21 00:00:00 +0000
 categories: [Company]
 ---
 
-# ObjectivePixel Origins
-
 ![BringCast podcast app showcase](/assets/img/bringcastmerge.jpg)
 
 ObjectivePixel was originally founded in 2010 with a focus on building mobile apps for Windows Phone 7.
