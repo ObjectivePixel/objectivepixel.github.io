@@ -8,6 +8,9 @@ What an incredible experience attending WWDC 2025 in person! After years of virt
 
 The energy was electric as Apple unveiled their latest technologies and frameworks. From groundbreaking updates to iOS and macOS to new developer tools that will shape the future of app development, this year's WWDC was packed with exciting announcements.
 
+TODO: insta 360
+TODO: soft launch of MVP post
+
 Networking with fellow developers, attending hands-on labs, and getting direct feedback from Apple engineers made this trip invaluable for our team at ObjectivePixel. We're already incorporating some of the new technologies into our upcoming projects.
 
 Can't wait to share what we're building with these amazing new tools!
