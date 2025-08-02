@@ -11,7 +11,13 @@ What an incredible experience attending WWDC 2025 in person for the first time! 
 
 Starting with the registration event held at the Infinate Loop campus on Sunday night, I was struct by the scale and diversity of folks attending from companies big and small all over the world The lines to get in said it all.  The welcome reception and experience leaving and getting clapped and cheered on the way out was something I've never experienced previously.
 
-<<video>>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 20px 0;">
+  <iframe src="https://www.youtube.com/embed/bavRrErHja0" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+          frameborder="0" 
+          allowfullscreen>
+  </iframe>
+</div>
 
 On the morning of the keynote, after an early start and a lot of waiting, those of us at the front of the line finnally made it into the park.  It was a gorgeous sunny warm morning, and we were treated to breakfast outside.  The food was commendable!
 
