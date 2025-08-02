@@ -1,6 +1,6 @@
 ---
 title: ObjectivePixel 2025 team
-date: 2025-06-10 00:00:00 +0000
+date: 2025-05-10 00:00:00 +0000
 categories: [Company, Team]
 image: /assets/img/team/lisa-valentine-portrait.jpeg
 ---
