@@ -2,13 +2,22 @@
 title: Using PaperKit PaperMarkerView in SwiftUI
 date: 2025-07-28 00:00:00 +0000
 categories: [Apple, SwiftUI, WWDC]
+mermaid: true
 ---
 
-I've had an iPad app idea rattling around in my head for a while which would leverage pencil kit and a drawing canvas to enable a specific scenario that I think might form the basis of an app. I particularly like Freeform and so my mental model was to use something like that approach. Imagine my joy when I saw the session announcing PaperKit at WWDC (https://developer.apple.com/videos/play/wwdc2025/285).
+I've had an iPad app idea rattling around in my head for a while which would leverage pencil kit and a drawing canvas to enable a specific scenario that I think might form the basis of an app. I particularly like Freeform and so my mental model was to use something like that approach. Imagine my joy when I saw the session announcing PaperKit at WWDC which you can watch here [https://developer.apple.com/videos/play/wwdc2025/285](https://developer.apple.com/videos/play/wwdc2025/285).
 
 ![PaperKit WWDC Session](/assets/img/paperkit/paperkit_session_image.jpeg)
 
-I watched this session with great anticipation and delight at the capabilities that are clearly directly used in Freeform, but was a little saddened to see that there was no SwiftUI wrapper. Because I wanted to start prototyping the app idea, I decided to knock up a quick PoC for leveraging PaperKit in SwiftUI and I thought it might be helpful to share that. It's definitely not comprehensive or production ready but gets you up and running to play around.
+I watched this session with great anticipation and delight that the capabilities clearly form the basis of the Freeform, an app that we use to collaborate on ideas.  The downside was that chose to not provide a SwiftUI wrapper in this version of iOS. Because I wanted to start prototyping the app idea, I decided to build a quick PoC SwiftUI wrapper. Whilst it is definitely not comprehensive or production ready, it gets you up and running to play around with the basic functionality of PaperKit.
+
+I iterated with Claude Code to find a structure that was easy to understand whilst implementing the basic functionality of:
+
+1. Display PaperKit canvas with view constraints for sizing.
+2. Toolbar controls to toggle between edit mode and view mode and clear the canvas.
+3. Display and management of drawing tools whilst in edit mode.
+4. AccessoryItem for toolpicker for insertion of shapes and text.
+3. Automatic loading and saving of current canvas data on app launch and exit.
 
 ## Architecture Overview
 
@@ -85,5 +94,3 @@ graph TB
 ## Implementation
 
 Here's the complete implementation of the SwiftUI wrapper for PaperKit:
-
-{% gist clarkezone/68eb3ee13b5607782ceb2e20cece4ab3 %}

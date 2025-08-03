@@ -16,7 +16,7 @@ timezone:
 
 title: ObjectivePixel # the main title
 
-tagline: Indie iOS Developers
+tagline: Apple Platform Indie Developer
 
 description: >- # used by seo meta and the atom feed
   ObjectivePixel is an indie app developer focused on building apps for Apple platforms.
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: 
+baseurl:
 
 # ------------ The following options are not recommended to be modified ------------------
 
