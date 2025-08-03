@@ -6,7 +6,11 @@ mermaid: true
 image: /assets/img/paperkit/paperkit_session_image.jpeg
 ---
 
-I've had an iPad app idea rattling around in my head for a while which would leverage [PencilKit](https://developer.apple.com/documentation/pencilkit) and a drawing canvas to enable a specific scenario that I think might form the basis of an app. I particularly like [Freeform] and we Lisa and I use it actively to colloborate on designs for our apps (https://developer.apple.com/app-store/freeform/) and so my mental model was to use something like that approach. Imagine my joy when I saw the WWDC 2025 session announcing [PaperKit](https://developer.apple.com/documentation/paperkit) at which you can watch here [https://developer.apple.com/videos/play/wwdc2025/285](https://developer.apple.com/videos/play/wwdc2025/285).
+I've had an iPad app idea rattling around in my head for a while which would leverage [PencilKit](https://developer.apple.com/documentation/pencilkit) and a drawing canvas to enable a specific scenario that I think might form the basis of an app. I particularly like [Freeform](https://developer.apple.com/app-store/freeform/) and Lisa and I use it actively to colloborate on designs for our apps  and so my mental model was to use something like that approach.
+
+![Freeform](/assets/img/paperkit/screenshot_freeform.PNG){: width="650" }
+
+Imagine my joy when I saw the WWDC 2025 session announcing [PaperKit](https://developer.apple.com/documentation/paperkit) at which you can watch here [https://developer.apple.com/videos/play/wwdc2025/285](https://developer.apple.com/videos/play/wwdc2025/285).
 
 I watched this session with great anticipation and delight that the capabilities clearly form the basis of the Freeform.  The downside was that Apple chose to not provide a SwiftUI wrapper in this version of iOS. Because I wanted to start prototyping the app idea, I decided to build a quick PoC SwiftUI wrapper. Whilst it is definitely not comprehensive or production ready, it gets you up and running to play around with the basic functionality of PaperKit.
 
