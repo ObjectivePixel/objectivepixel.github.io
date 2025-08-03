@@ -22,6 +22,8 @@ The result was a working prototype:
 
 ![Prototype](/assets/img/paperkit/screenshot_iPhone.PNG){: width="250" }
 
+One point to note about PaperKit: although it supports many of the canvas capabilities of Freeform, it isn't exhaustive; for example, it doesn't support the concept of adding connections between objects.  The other big limitation is there is no network syncing support.  This isn't surprising and I'm guessing it would be possible to build this using the delegate callbacks combined with a good peer-to-peer networking library.
+
 ## Architecture Overview
 
 The integration between SwiftUI and PaperKit requires several layers to bridge the two frameworks effectively. Here's how the various components relate to each other:
