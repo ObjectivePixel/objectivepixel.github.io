@@ -14,7 +14,7 @@ I watched this session with great anticipation and delight that the capabilities
 I iterated with Claude Code to find a structure that was easy to understand whilst implementing the basic functionality of:
 
 1. Display PaperKit canvas with view constraints for sizing.
-2. Toolbar controls to toggle between edit mode and view mode and clear the canvas.
+2. Toolbar controls to toggle between edit mode and view mode, undo last action and clear the canvas.
 3. Display and management of drawing tools whilst in edit mode.
 4. AccessoryItem for toolpicker for insertion of shapes and text.
 3. Automatic loading and saving of current canvas data on app launch and exit.
