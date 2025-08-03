@@ -8,8 +8,6 @@ image: /assets/img/paperkit/paperkit_session_image.jpeg
 
 I've had an iPad app idea rattling around in my head for a while which would leverage pencil kit and a drawing canvas to enable a specific scenario that I think might form the basis of an app. I particularly like Freeform and so my mental model was to use something like that approach. Imagine my joy when I saw the session announcing PaperKit at WWDC which you can watch here [https://developer.apple.com/videos/play/wwdc2025/285](https://developer.apple.com/videos/play/wwdc2025/285).
 
-![PaperKit WWDC Session](/assets/img/paperkit/paperkit_session_image.jpeg)
-
 I watched this session with great anticipation and delight that the capabilities clearly form the basis of the Freeform, an app that we use to collaborate on ideas.  The downside was that chose to not provide a SwiftUI wrapper in this version of iOS. Because I wanted to start prototyping the app idea, I decided to build a quick PoC SwiftUI wrapper. Whilst it is definitely not comprehensive or production ready, it gets you up and running to play around with the basic functionality of PaperKit.
 
 I coded back and forth with Claude Code to get the basics running and find a structure that was easy to understand whilst implementing the basic functionality of:
