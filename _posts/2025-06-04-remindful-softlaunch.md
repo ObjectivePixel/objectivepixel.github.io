@@ -15,3 +15,5 @@ If you are an indie developer, just getting started we are excited to share our 
 If you are a potential user, we would love to have you install this early version and provide feedback on what you think so we can shape the app into something you love.
 
 In any evantuality, if you are reading this post we would love it if you would subscribe to our blog and stay in touch!
+
+( We are open to adding new users to our testflight for the next version; if you are interested, please reach out on X [@objectivepixel](https://twitter.com/objectivepixel) )
