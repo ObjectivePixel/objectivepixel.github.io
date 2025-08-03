@@ -18,7 +18,7 @@ I coded back and forth with Claude Code to get the basics running and find a str
 4. AccessoryItem for toolpicker for insertion of shapes and text.
 3. Automatic loading and saving of current canvas data on app launch and exit.
 
-![Prototype](/assets/img/paperkit/screenshot_iPhone.PNG)
+![Prototype](/assets/img/paperkit/screenshot_iPhone.PNG){: width="250" }
 
 ## Architecture Overview
 
