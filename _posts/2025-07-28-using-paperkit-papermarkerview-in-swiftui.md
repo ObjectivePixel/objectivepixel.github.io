@@ -25,14 +25,9 @@ The integration between SwiftUI and PaperKit requires several layers to bridge t
 
 ```mermaid
 graph TB
-    %% SwiftUI Layer
-    subgraph "SwiftUI Layer"
-        ContentView["ContentView<br/>@State coordinator<br/>@State isEditMode"]
-        PaperMarkupView["PaperMarkupView<br/>UIViewControllerRepresentable<br/>canvasSize, isEditable"]
-    end
-    
     %% Bridge Layer  
     subgraph "Bridge Layer"
+        PaperMarkupView["PaperMarkupView<br/>UIViewControllerRepresentable<br/>canvasSize, isEditable"]
         Coordinator["PaperMarkupCoordinator<br/>@Observable<br/>weak wrapperViewController"]
     end
     
@@ -54,8 +49,6 @@ graph TB
     end
     
     %% Ownership Relationships (Solid Lines)
-    ContentView --> PaperMarkupView
-    ContentView --> Coordinator
     PaperMarkupView --> Coordinator
     PaperMarkupView --> WrapperVC
     WrapperVC --> PaperVC
@@ -83,8 +76,7 @@ graph TB
     classDef storage fill:#fce4ec,stroke:#880e4f,stroke-width:2px
     classDef protocol fill:#f5f5f5,stroke:#424242,stroke-width:1px,stroke-dasharray: 5 5
     
-    class ContentView,PaperMarkupView swiftui
-    class Coordinator bridge
+    class PaperMarkupView,Coordinator bridge
     class WrapperVC uikit
     class PaperVC,ToolPicker,MarkupModel framework
     class FileSystem storage
