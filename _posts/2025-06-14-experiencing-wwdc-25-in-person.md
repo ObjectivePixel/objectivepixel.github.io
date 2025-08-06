@@ -5,11 +5,11 @@ categories: [Events, WWDC, Apple]
 image: /assets/img/wwdc2025/IMG_2141.jpeg
 ---
 
-What an incredible experience attending WWDC 2025 in person for the first time! After years of virtual conferences, I was lucky enough to get selected in the ballot process and got a golden ticket enabling me to attend in person for the first time.  This ment a visit the hallowed grounds of Apple Park with Apple and a select few from the developer community.
+What an incredible experience attending WWDC 2025 in person for the first time! After years of virtual conferences, I was lucky enough to get selected in the ballot process and got a golden ticket enabling me to attend in person for the first time.  This meant a visit the hallowed grounds of Apple Park with Apple and a select few from the developer community.
 
 <<golden ticket screenshot>>
 
-Starting with the registration event held at the Infinate Loop campus on Sunday night, I was struct by the scale and diversity of folks attending from companies big and small all over the world The lines to get in said it all.  The welcome reception and experience leaving and getting clapped and cheered on the way out was something I've never experienced previously.
+Starting with the registration event held at the Infinite Loop campus on Sunday night, I was struct by the scale and diversity of folks attending from companies big and small all over the world The lines to get in said it all.  The welcome reception and experience leaving and getting clapped and cheered on the way out was something I've never experienced previously.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 20px 0;">
   <iframe src="https://www.youtube.com/embed/bavRrErHja0" 

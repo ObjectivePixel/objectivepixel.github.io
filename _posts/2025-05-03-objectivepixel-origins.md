@@ -13,7 +13,7 @@ BringCast was one of the first apps on the Windows Phone platform for podcasting
 
 Over time, [@Ozziepeeps](https://twitter.com/ozziepeeps) decided to step down for family reasons (having kids!) and, as Windows Phone was retired by Microsoft, ObjectivePixel became dormant in 2014.  We removed BringCast from the Windows store when we received a takedown notice due to the design of the app icon.
 
-In 2025, ObjectivePixel is coming out of hybernation with a new mission and a new team. This blog marks the beginning of the next phase.  
+In 2025, ObjectivePixel is coming out of hibernation with a new mission and a new team. This blog marks the beginning of the next phase.  
 
 We will be documenting our journey from idea to shipping our first app to the Apple App Store and beyond.  We will be reflecting on challenges as well as capturing learnings, tools and resources we discover along the way.  If you are an indie developers thinking about dipping your toe into the app development world we hope this might help you in some small way.
 
