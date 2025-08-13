@@ -6,6 +6,8 @@ mermaid: true
 image: /assets/img/paperkit/IMG_0189.PNG
 ---
 
+GIST referenced in this post: [https://developer.apple.com/videos/play/wwdc2025/285](https://gist.github.com/clarkezone/68eb3ee13b5607782ceb2e20cece4ab3).
+
 I've had an iPad app idea rattling around in my head for a while which would leverage [PencilKit](https://developer.apple.com/documentation/pencilkit) and a drawing canvas to enable a specific scenario that I think might form the basis of an app. I particularly like [Freeform](https://developer.apple.com/app-store/freeform/) and Lisa and I use it actively to colloborate on designs for our apps  and so my mental model was to use something like that approach.
 
 ![Freeform](/assets/img/paperkit/screenshot_freeform.PNG){: width="650" }
